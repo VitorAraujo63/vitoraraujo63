@@ -1,8 +1,8 @@
 ### Olá me chamo Vitor 👋
 
-- 🌱 Estou aprendendo programação em, flutter, php, python.
+- 🌱 Estou aprendendo programação em, flutter, html, python.
 - 🔭 Estou Estudando atualmente no Bicudo, juntamente do novotec(Informatica para internet), e sou um dos alunos do DevMenthors Flutter.
-- ⚡ Gosto de games, programação e ...
+
 
 <!--
 **VitorAraujo63/vitoraraujo63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
